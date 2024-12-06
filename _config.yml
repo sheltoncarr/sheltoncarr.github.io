@@ -116,7 +116,7 @@ author:
   name             : "Shelton Carr"
   avatar           : "/assets/images/shelton_carr_headshot.jpg"
   bio              : "Software Engineer @ Clark Group"
-  location         : "Washington D.C."
+  location         : "Washington, D.C."
   # email            : "sdc79@cornell.edu"
   links:
     - label: "Email"
